@@ -14,3 +14,12 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <b>After having some basic insight on matplotlib, now i started learning about tensorflow. TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks. Since, my device had an issue with installation with tensor, i did basic on Google collab and learnt about basic initialization on tensorflow.</b>
 <h4>Resource:</h4>
 <a href="https://www.youtube.com/watch?v=HPjBY1H-U4U&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=2">Tensorflow Tutorial</a>
+
+
+<h1>Day 4</h1>
+<b>Today, I just did some basic mathematical manipulations on tensorflow and learnt about tensor indexing and reshaping. Similarly, today i got to know about keras and its implementation on tensorflow to build machine learning model. Excited about it</b>
+<h4>Resources:</h4>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HPjBY1H-U4U&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=2">Tensorflow Tutorial(Youtube)</a></li>
+<li><a href="https://www.tensorflow.org/tutorials/quickstart/beginner">Tensorflow Tutorial(Offical Website)</a></li>
+</ul>
