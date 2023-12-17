@@ -23,3 +23,8 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <li><a href="https://www.youtube.com/watch?v=HPjBY1H-U4U&list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb&index=2">Tensorflow Tutorial(Youtube)</a></li>
 <li><a href="https://www.tensorflow.org/tutorials/quickstart/beginner">Tensorflow Tutorial(Offical Website)</a></li>
 </ul>
+<br/>
+
+<h1>Day 5</h1>
+<b>Today, I decided to learn scikit learn instead of tensorflow as i am beginner to machine learning. scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy,etc</b>
+<img align="center" alt="coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png">
