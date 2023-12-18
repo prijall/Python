@@ -28,3 +28,13 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 <h1>Day 5</h1>
 <b>Today, I decided to learn scikit learn instead of tensorflow as i am beginner to machine learning. scikit-learn is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy,etc</b>
 <img align="center" alt="coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png">
+<br/>
+
+<h1>Day 6</h1>
+<b>Today, I practised the basics of scikit learn and learnt to import datasets from sklearn itself. Similarly, I grasped little knowledge on Linear Regression and to what it is used.
+  <ul>
+    <li>Linear Regression:</li>
+    <p>It is used to model single independent variable and a continuous dependent variable variable.</p>
+    <img align="center" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:2872/1*k2bLmeYIG7z7dCyxADedhQ.png">
+  </ul>
+</b>
