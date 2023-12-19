@@ -38,3 +38,7 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
     <img align="center" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:2872/1*k2bLmeYIG7z7dCyxADedhQ.png">
   </ul>
 </b>
+<br/>
+
+<h1>Day 7</h1>
+<b>From today, I decided to halt my scikit-learn journey and i again start to learn python for AI and data science from coursera. I felt like my concept in python is weeker so i am again practicing it.</b>
