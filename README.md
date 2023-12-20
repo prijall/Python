@@ -42,3 +42,7 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 
 <h1>Day 7</h1>
 <b>From today, I decided to halt my scikit-learn journey and i again start to learn python for AI and data science from coursera. I felt like my concept in python is weeker so i am again practicing it.</b>
+<br/>
+
+<h1>Day 8</h1>
+<b>Today, I practised about dictionary in python which is one of the important data structures. </b>
