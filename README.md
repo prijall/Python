@@ -46,3 +46,12 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
 
 <h1>Day 8</h1>
 <b>Today, I practised about dictionary in python which is one of the important data structures. </b>
+<br/>
+
+<h1>Day 9</h1>
+<b>Today, I practised about sets from coursera. Sets are similar to that of list but it doestnot have any index. Sets are also wriiten in curly braces. This was the last topic in data structures in python. It really seems to be helpful.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li>
+</ul>
+<br/>
