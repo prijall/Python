@@ -55,3 +55,11 @@ It helps to convert the given data into visuals like graphs, bar graphs, pie-cha
   <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li>
 </ul>
 <br/>
+
+<h1>Day 10</h1>
+<b>In the morning itself, i did my week 3rd course on coursera. Today, i learned about condition and branching in python. I grasped the concept of range function as well.  Day by day the concepts are getting harder but its always fun to learn new things.</b>
+<h4>Resource:</h4>
+<ul>
+  <li><a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Coursera</a></li>
+</ul>
+<br/>
