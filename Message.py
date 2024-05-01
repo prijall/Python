@@ -1,6 +1,6 @@
 def msg():
-    print("You are working very hard. Dont worry, Keep faith in god and keep grinding")
+    print("The security code for is 147")
 
-print(__name__)
-if __name__ == '__main__':
-    msg() 
+
+if '__name__'=='__msg__':
+    msg()

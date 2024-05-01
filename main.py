@@ -1,3 +1,3 @@
-import Message
+from Message import msg
 
-Message.msg()
+msg()
