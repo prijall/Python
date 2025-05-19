@@ -8,7 +8,7 @@ class Solution:
             if i > 0 and n==nums[i-1]:
                 continue
 
-            l, r=i+1, len(nums)-1
+            l, r=i+1, len(nums)-1 # initializes the pointer at the start of whole array, shifting of the pointer happens from while loop only
             
             while l < r:
                 if n + nums[l] + nums[r] < 0:
