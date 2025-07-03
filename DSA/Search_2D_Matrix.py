@@ -36,3 +36,7 @@ class solution:
 
 s=solution()
 print(s.mat(matrix = [[1,2,4,8],[10,11,12,13],[14,20,30,40]], target = 15))
+
+
+## Time Complexity: O(log(m) + log(n)) = O(log(m * n)), where m=no of rows, n= no of elements in a rows
+## Space Complexity: O(1)
